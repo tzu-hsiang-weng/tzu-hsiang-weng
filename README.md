@@ -1,16 +1,35 @@
-## Hi there 👋
+# Tzu-Hsiang Weng
 
-<!--
-**tzu-hsiang-weng/tzu-hsiang-weng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student in **Computer Science and Information Engineering** at **Tamkang University**.
 
-Here are some ideas to get you started:
+My research interests focus on **Edge AI, lightweight machine learning, embedded systems, and sensing data analysis**, with particular interest in deploying machine learning models under limited computation and memory resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Edge AI & TinyML
+- Lightweight Machine Learning
+- Embedded Systems & MCU Deployment
+- Sensor Data Analysis
+- Cross-domain Machine Learning
+
+## Research Highlights
+
+- **IEEE GCCE 2026** — First Author, Oral Presentation
+- **NSTC Undergraduate Research Project**
+- Lightweight ML deployment on **STM32**
+- Cross-disciplinary research on **Raman Spectroscopy × Machine Learning**
+
+## Selected Research Projects
+
+Projects will be added progressively.
+
+## Technical Skills
+
+**Programming:** C, C++, Python, SQL  
+**Machine Learning:** Scikit-learn, CatBoost, XGBoost  
+**Embedded / Edge:** STM32, Raspberry Pi, MicroPython  
+**Tools:** Git, VS Code
+
+## Contact
+
+- Email: zixiang5676@gmail.com
