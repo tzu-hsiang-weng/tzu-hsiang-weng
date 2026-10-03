@@ -25,7 +25,7 @@ My research interests focus on **Edge AI, lightweight machine learning, embedded
 
 First-author research accepted for Oral Presentation at **IEEE GCCE 2026**. The study investigates event-aware water-level semantic inference under scarce flood-event data, teacher-guided lightweight modeling, and C99 deployment of a depth-3 Decision Tree on an STM32L476RG.
 
-**Tech:** Python · C99 · CatBoost · Decision Tree · STM32L476RG · Edge AI  
+**Tech:** Python · C · CatBoost · Decision Tree · STM32L476RG · Edge AI  
 **Repository:** [stm32-edge-flood-monitoring](https://github.com/tzu-hsiang-weng/stm32-edge-flood-monitoring)
 
 ### VoI-Driven Transport Selection for Heterogeneous LoRa/Wi-Fi IoT
